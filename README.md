@@ -1,2 +1,4 @@
 # hello-world
-Beginning
+#Beginning
+#!/bin/bash
+echo "Hello world"
